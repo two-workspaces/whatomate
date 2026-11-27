@@ -4,5 +4,6 @@
   "description": "WhatsApp Business inbox, chatbots, campaigns and templates on the Cloud API",
   "category": "Automation",
   "image": "https://raw.githubusercontent.com/two-workspaces/whatomate/main/icon.svg",
-  "id": "3741d10b-0520-4fe2-b865-cae76fa68986"
+  "id": "3741d10b-0520-4fe2-b865-cae76fa68986",
+  "published": true
 }
